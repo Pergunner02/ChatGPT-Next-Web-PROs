@@ -3,10 +3,7 @@
 
 <h1 align="center">ChatGPT Next Web</h1>
 
-基于大佬前端，接入自有管理后台，实现：公众号注册/登录（引流用）、用户授权、支付管理、卡密兑换、KEY管理分发等<br/>
 [PRO版前端Demo](https://uai.uslinks.cn/) / [PRO版后端Demo](https://uai.uslinks.cn/) <br/>
-
-[点击添加QQ交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=OtOrr8d3r9LSrHSuwQOg2Gfyv-JRBb6j&authKey=Hz%2BbOlroGbLB%2BOw5i3rdssexzGMkUUsx9Qg%2FXpSs8jezMBqBTpvti1q4G7uqBR0V&noverify=0&group_code=869937959) 
 
 ------------------------------------以下为原始说明文件------------------------------------
 
